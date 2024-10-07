@@ -1,0 +1,7 @@
+import KEY
+
+UP = KEY.K_w
+DOWN = KEY.K_s
+LEFT = KEY.K_a
+RIGHT = KEY.K_d
+ACTION = KEY.K_SPACE
